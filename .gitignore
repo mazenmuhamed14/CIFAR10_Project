@@ -1,0 +1,11 @@
+# Ignore raw and processed data
+data/
+src/preprocessed_data.pkl
+*.pkl
+*.npy
+*.npz
+*.zip
+*.tar
+*.gz
+*.bin
+*.csv
